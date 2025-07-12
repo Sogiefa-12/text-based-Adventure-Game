@@ -65,7 +65,7 @@ fn main() {
 // action (fight or flee) and returns it as a `String`.
 
 fn get_player_action() -> String {
-    println!("Do you want to fight, flee or quit? (type 'fight', 'flee' or 'quit)");
+    println!("Do you want to fight, flee or quit? (type 'fight', 'flee' or 'quit')");
     let mut input = String::new();
     std::io::stdin()
         .read_line(&mut input)
