@@ -9,7 +9,8 @@ The software is a text-based adventure game where players navigate various scena
 The purpose of creating this software is to learn and apply Rust programming language concepts in a practical and enjoyable context. This project will help me develop skills in game development, problem-solving, and utilizing Rust's features, such as its ownership model, error handling, and memory safety.
 
 
-Software Demo Video(https://youtu.be/O9flk-UMjxw)
+# Software Demo Video
+Text based Adventure Game in Rust: (https://youtu.be/XEmgArOqnxM)
 
 # Development Environment
 
@@ -25,3 +26,5 @@ The programming language used for this project is Rust, a statically-typed, syst
 * The Rust Programming Language(https://doc.rust-lang.org/book/)
 * Rust by Example(https://doc.rust-lang.org/rust-by-example/)
 * Stack Overflow (https://stackoverflow.com/questions)
+* Rust Documentation (https://doc.rust.lang.org/stable/rust)
+* Rustlings (https://github.com/rust-lang/rustlings)
